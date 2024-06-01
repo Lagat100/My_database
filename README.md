@@ -56,14 +56,19 @@ I ran into a problem where I needed to store millions of records of arbitrary da
 
 
 Risks
+
 Technical Risks:
+
 Performance Issues:
-Potential Impact: The database may not perform optimally, leading to slow query execution and poor overall system performance.
+- Potential Impact: The database may not perform optimally, leading to slow query execution and poor overall system performance.
+
 Safeguards/Alternatives:
-Conduct thorough performance testing at each stage of development.
-Implement indexing and caching mechanisms to improve performance.
-Consider parallel processing and optimization techniques.
+- Conduct thorough performance testing at each stage of development.
+- Implement indexing and caching mechanisms to improve performance.
+- Consider parallel processing and optimization techniques.
+
 Data Corruption:
+
 Potential Impact: Data integrity could be compromised, leading to incorrect query results or even data loss.
 Safeguards/Alternatives:
 Implement robust transaction management and ACID (Atomicity, Consistency, Isolation, Durability) properties.
