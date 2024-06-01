@@ -20,26 +20,30 @@ Languages:
 
 
 Platforms:
+
 a. Operating System:
-Linux: Many databases are built to run on Linux due to its stability, security, and open-source nature.
+- Linux: Many databases are built to run on Linux due to its stability, security, and open-source nature.
 
 
 Hardware:
+
 a. System Requirements:
-High-performance CPU: Depending on the scale and requirements of your database, you may need a CPU with multiple cores and high clock speeds.
-Sufficient RAM: The more RAM, the better for caching and indexing large datasets.
-Storage: Fast storage subsystem (SSDs preferred over HDDs).
+- High-performance CPU: Depending on the scale and requirements of your database, you may need a CPU with multiple cores and high clock speeds.
+- Sufficient RAM: The more RAM, the better for caching and indexing large datasets.
+S- torage: Fast storage subsystem (SSDs preferred over HDDs).
 
 
 Books and Resources:
+
 a. Books:
-"Database Management Systems" by Ramakrishnan and Gehrke: It provides a comprehensive introduction to database systems.
-"Designing Data-Intensive Applications" by Martin Kleppmann: This book covers modern database technologies and concepts.
+- "Database Management Systems" by Ramakrishnan and Gehrke: It provides a comprehensive introduction to database systems.
+- "Designing Data-Intensive Applications" by Martin Kleppmann: This book covers modern database technologies and concepts.
+
 b. Online Resources:
-SQLite Documentation: For understanding SQLite database internals and usage.
-LMDB Documentation: For understanding LMDB database internals and usage.
-LevelDB Documentation: For understanding LevelDB internals and usage.
-Database Internals: Websites like "Database Internals" provide detailed information about the internal workings of various databases.
+- SQLite Documentation: For understanding SQLite database internals and usage.
+- LMDB Documentation: For understanding LMDB database internals and usage.
+- LevelDB Documentation: For understanding LevelDB internals and usage.
+- Database Internals: Websites like "Database Internals" provide detailed information about the internal workings of various databases.
 
 
 Challenge Statement
