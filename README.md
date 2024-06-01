@@ -47,6 +47,7 @@ b. Online Resources:
 
 
 Challenge Statement
+
 I ran into a problem where I needed to store millions of records of arbitrary data ranging from 1 KB-8KB, in the way that I can find, search, read, iterate through my data as quickly as possible, just like native disk access.
 
 
