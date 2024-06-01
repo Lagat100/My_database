@@ -6,16 +6,17 @@ Team Members
 Weldon Kiprop - Sole participant in building the database.
 
 Technologies
+
 Libraries:
-a. For Database Management:
-SQLite: A self-contained, serverless, zero-configuration, transactional SQL database engine. It's widely used and comes with a C API.
-LMDB (Lightning Memory-Mapped Database): An ultra-fast, ultra-compact key-value data store developed by Symas Corporation.
-LevelDB: A fast key-value storage library written at Google.
+- a. For Database Management:
+- SQLite: A self-contained, serverless, zero-configuration, transactional SQL database engine. It's widely used and comes with a C API.
+- LMDB (Lightning Memory-Mapped Database): An ultra-fast, ultra-compact key-value data store developed by Symas Corporation.
+- LevelDB: A fast key-value storage library written at Google.
 
 
 Languages:
-a. Programming Language:
-C/C++: Most traditional databases are built using C/C++ due to their performance and low-level control.
+- a. Programming Language:
+- C/C++: Most traditional databases are built using C/C++ due to their performance and low-level control.
 
 
 Platforms:
