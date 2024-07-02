@@ -118,6 +118,7 @@ Use a "pull request" model where changes are reviewed before merging into the ma
 Advantages:
 Simple and easy to understand.
 Encourages frequent releases and collaboration.
+
 Disadvantages:
 May not scale well for larger teams or more complex projects.
 Deployment Strategy:
@@ -127,6 +128,7 @@ Automate the deployment process to ensure rapid and reliable releases.
 Use a CI/CD pipeline to build, test, and deploy changes automatically.
 Deploy changes to a staging environment for testing before promoting them to production.
 Implement feature flags to enable/disable features in production easily.
+
 Advantages:
 Enables rapid and reliable releases.
 Reduces the risk of human error during deployment.
@@ -148,7 +150,9 @@ Use scripting languages like Python or Node.js to write data seeding scripts.
 Advantages:
 Ensures that the database is populated with consistent and meaningful data.
 Automates the data population process to save time and effort.
+
 Testing Strategy:
+
 Test Automation:
 Tools and Automation:
 Use unit testing frameworks like JUnit (for Java), pytest (for Python), or Mocha (for JavaScript) to write and automate unit tests.
