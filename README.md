@@ -90,6 +90,7 @@ Regularly audit the database system to ensure compliance with legal and regulato
 
 
 Budget Overruns:
+
 Potential Impact: Exceeding the allocated budget could delay the project or result in incomplete implementation.
 Strategies to Prevent Negative Outcomes:
 Conduct a thorough cost analysis at the beginning of the project to estimate hardware, software, and labor costs accurately.
@@ -104,13 +105,16 @@ Allocate sufficient hardware resources to support the database's requirements, i
 
 
 Infrastructure
+
 Branching and Merging Strategy:
+
 GitHub Flow:
 Process for Branching and Merging:
 Create feature branches for each new feature or bug fix.
 Regularly push changes to the feature branch and open pull requests for code review.
 Once the code is reviewed and approved, merge it into the main branch (or development branch if using a Gitflow-like approach).
 Use a "pull request" model where changes are reviewed before merging into the main branch.
+
 Advantages:
 Simple and easy to understand.
 Encourages frequent releases and collaboration.
