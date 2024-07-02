@@ -74,14 +74,18 @@ Safeguards/Alternatives:
 Implement robust transaction management and ACID (Atomicity, Consistency, Isolation, Durability) properties.
 Use checksums and error detection mechanisms to detect and prevent data corruption.
 Regularly backup the database to minimize the impact of data corruption.
+
 Scalability Challenges:
 Potential Impact: The database may not scale efficiently to handle growing amounts of data and increasing user load.
 Safeguards/Alternatives:
 Design the database with scalability in mind, using techniques such as sharding, replication, and partitioning.
 Monitor system performance and scalability metrics regularly to identify bottlenecks and scalability issues early.
+
 Non-Technical Risks:
+
 Legal and Compliance Issues:
 Potential Impact: Failure to comply with data protection regulations could result in legal action, fines, and damage to the organization's reputation.
+
 Strategies to Prevent Negative Outcomes:
 Ensure compliance with data protection regulations such as GDPR, HIPAA, etc., by implementing appropriate security measures and access controls.
 Regularly audit the database system to ensure compliance with legal and regulatory requirements.
