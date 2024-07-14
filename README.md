@@ -88,7 +88,8 @@ Monitor system performance and scalability metrics regularly to identify bottlen
 Non-Technical Risks:
 
 Legal and Compliance Issues:
-Potential Impact: Failure to comply with data protection regulations could result in legal action, fines, and damage to the organization's reputation.
+Potential Impact: 
+Failure to comply with data protection regulations could result in legal action, fines, and damage to the organization's reputation.
 
 Strategies to Prevent Negative Outcomes:
 Ensure compliance with data protection regulations such as GDPR, HIPAA, etc., by implementing appropriate security measures and access controls.
@@ -99,12 +100,16 @@ Regularly audit the database system to ensure compliance with legal and regulato
 
 Budget Overruns:
 
-Potential Impact: Exceeding the allocated budget could delay the project or result in incomplete implementation.
+Potential Impact: 
+Exceeding the allocated budget could delay the project or result in incomplete implementation.
+
 Strategies to Prevent Negative Outcomes:
 Conduct a thorough cost analysis at the beginning of the project to estimate hardware, software, and labor costs accurately.
 Monitor project expenses closely and identify potential cost overruns early to take corrective action.
+
 Resource Constraints:
 Potential Impact: Insufficient resources (e.g., skilled personnel, hardware, etc.) could delay the project or compromise the quality of the database system.
+
 Strategies to Prevent Negative Outcomes:
 Ensure adequate staffing with the necessary skills and expertise to develop and maintain the database system.
 Allocate sufficient hardware resources to support the database's requirements, including CPU, RAM, and storage.
