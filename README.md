@@ -69,14 +69,18 @@ Safeguards/Alternatives:
 
 Data Corruption:
 
-Potential Impact: Data integrity could be compromised, leading to incorrect query results or even data loss.
+Potential Impact: 
+Data integrity could be compromised, leading to incorrect query results or even data loss.
+
 Safeguards/Alternatives:
 Implement robust transaction management and ACID (Atomicity, Consistency, Isolation, Durability) properties.
 Use checksums and error detection mechanisms to detect and prevent data corruption.
 Regularly backup the database to minimize the impact of data corruption.
 
 Scalability Challenges:
-Potential Impact: The database may not scale efficiently to handle growing amounts of data and increasing user load.
+Potential Impact: 
+The database may not scale efficiently to handle growing amounts of data and increasing user load.
+
 Safeguards/Alternatives:
 Design the database with scalability in mind, using techniques such as sharding, replication, and partitioning.
 Monitor system performance and scalability metrics regularly to identify bottlenecks and scalability issues early.
